@@ -16,5 +16,5 @@
   <author>
       OnlyTech C.A
   </author>
-
+<gap:plugin name="cordova-plugin-sms" source="npm" />
 </widget>
